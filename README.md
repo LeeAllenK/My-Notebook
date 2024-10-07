@@ -4,10 +4,9 @@
 
 <div id="header" >
  <h1 class="heading-element" dir="auto">How It's Made</h1>
- Tech used: HTML, CSS, JavaScript , Mongodb , Express<br/>
- For this application I implemented both MongDB and Express to handle the back-end. The focus was
- to create a fullstack app with the ability to create a note through an input. Each note is saved to a database and removed once the
- user deletes it.
+ Tech used: HTML, CSS, JavaScript, Mongodb, Mongoose,  Express<br/>
+ The focus wasto create a fullstack app with the ability to create a note through an input. Each note is saved to the MongoDB and removed once the
+ user deletes it. Mongoose was implemented to help with schema-validation.
 </div>
 
 
@@ -28,4 +27,5 @@
  <h1 class="heading-element" dir="auto">Lessons Learned</h1>
  I lesson learned was when manipulating the database information use CRUD(create , read , update , delete).
  Each dependency needs to be installed for each individual application also ensure each dependency is updated.
+ Using MVC helps keep track of code better made it easier to find a bug in my application.
 </div>
