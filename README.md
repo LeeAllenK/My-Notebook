@@ -1,5 +1,5 @@
 <div id="header" >
- <h1  class="heading-element" dir="auto">Make A Note</h1>
+ <h1  class="heading-element" dir="auto">My Notebook</h1>
 </div>
 
 <div id="header" >
