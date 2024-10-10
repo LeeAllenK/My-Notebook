@@ -1,5 +1,6 @@
 <div id="header" >
  <h1  class="heading-element" dir="auto">My Notebook</h1>
+ <img src="https://i.imgur.com/NJ6fXRd.gif" alt="My NoteBook">
 </div>
 
 <div id="header" >
